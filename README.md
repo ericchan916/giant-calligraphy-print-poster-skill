@@ -1,5 +1,15 @@
 # 巨型书法解构·东方套色实验字体海报 Skill / Giant Calligraphy Print Poster Skill
 
+## 作品展示 · Gallery
+
+以下海报均由本 Skill 生成。
+
+| | |
+|---|---|
+| <img src="assets/01-silu.png" width="260" alt="丝路驼铃"> | <img src="assets/02-mugou.png" width="260" alt="木构营造"> |
+| 丝路驼铃 | 木构营造 |
+
+
 两个巨型书法汉字 × 朱红青蓝墨黑三色套印 × 嵌入字里的白描故事 × 错落的微型题跋，生成一张 9:16 东方实验字体海报。
 
 ## 它能做什么
