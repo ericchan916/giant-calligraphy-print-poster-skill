@@ -4,13 +4,10 @@
 
 以下海报均由本 Skill 生成。
 
-| | |
-|---|---|
-| <img src="assets/01-silu.png" width="260" alt="丝路驼铃"> | <img src="assets/02-mugou.png" width="260" alt="木构营造"> |
-| 丝路驼铃 | 木构营造 |
-
-
-两个巨型书法汉字 × 朱红青蓝墨黑三色套印 × 嵌入字里的白描故事 × 错落的微型题跋，生成一张 9:16 东方实验字体海报。
+| | | | |
+|---|---|---|---|
+| <img src="assets/01.png" width="200"> | <img src="assets/02.png" width="200"> | <img src="assets/03.png" width="200"> | <img src="assets/04.png" width="200"> |
+| <img src="assets/05.png" width="200"> | <img src="assets/06.png" width="200"> | <img src="assets/07.png" width="200"> | <img src="assets/08.png" width="200"> |
 
 ## 它能做什么
 - 两个核心汉字放大到画面高度约 80%，拉伸、交错、出画但仍可读
